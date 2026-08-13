@@ -8,7 +8,6 @@ export default defineConfig({
     Inspect()
   ],
   server: {
-    port: 3000,
-    allowedHosts: true
+    port: 3000
   }
 })
